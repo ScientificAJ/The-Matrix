@@ -4,6 +4,7 @@ import time
 import sys
 from termcolor import colored, cprint
 from playsound import playsound
+#playsound & termcolor needs to be installed manually
 # TODO - Update:- Automatically on after 10 minutes idle time																																																																																																																																																																																																																																																															")
 print("Inititiating the Matrix")
 time.sleep(1)
